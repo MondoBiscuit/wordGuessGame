@@ -1,0 +1,36 @@
+body {
+
+
+}
+
+.image {
+    position: absolute;
+    z-index: -1;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+
+.mainContainer {
+    margin: auto;
+    
+    border-style: dotted;
+    border-color: aliceblue;
+    height: 450px;
+    width: 450px;
+}
+
+.leftPanel {
+    float: right;
+    border-style: dotted;
+    border-color: aliceblue;
+}
+
+.rightPanel {
+    float: left;
+    border-style: dotted;
+    border-color: aliceblue;
+}
